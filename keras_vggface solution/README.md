@@ -14,7 +14,7 @@ Make sure your computer has access to a webcam.
 
 Run `python run_detection.py`
 
-Open code code used for inspiration: 
+Open source code used for inspiration: 
 
 1. https://machinelearningmastery.com/how-to-perform-face-recognition-with-vggface2-convolutional-neural-network-in-keras/
 2. https://github.com/jg-fisher/faceRecognition
